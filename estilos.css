@@ -1,0 +1,27 @@
+body {
+    background-color: #333; /* Fundo cinza escuro */
+    color: white; /* Texto em branco */
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+header, footer {
+    background-color: white; /* Header e footer em branco */
+    color: #333; /* Texto preto nos headers e footers */
+    padding: 20px;
+}
+
+main {
+    padding: 20px;
+}
+
+header h1 {
+    margin: 0;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
